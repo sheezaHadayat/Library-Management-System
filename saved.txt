@@ -1,0 +1,17 @@
+Book_Name  ISB_Number  Candidate_Name   Deptarment Session	Total isuse
+Coal		0010	sd		s	sd		1
+ds		343	asdf		as	as		1
+data		0001	Sheeza		19	cs		1
+c++		0003	google		search	engine		1
+data		0001	Sheeza		19	cs		2
+c++		0003	google		search	engine		2
+data		0001	Sheeza		19	cs		3
+c++		0003	google		search	engine		3
+c++		0003	Sheeza		19	cs		1
+c++		0003	google		engine	search		4
+Tw		0006	Sheeza		19	cs		2
+Pb		0005	Sheeza		19	cs		3
+c++		0003	Sheeza		19	cs		3
+c++		0003	Sheeza		19	cs		4
+c++		0003	Sheeza		19	cs		5
+c++		0003	Hamna		19	cs		1
